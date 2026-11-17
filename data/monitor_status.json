@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T08:08:11-05:00",
+  "checked_at": "2026-11-17T17:56:22-05:00",
   "items": [
     {
       "name": "Kia — índice mensual de campañas",
@@ -33,7 +33,7 @@
       "name": "Renault — legales oficiales",
       "url": "https://www.renault.com.co/legales.html",
       "ok": false,
-      "message": "HTTPError: 502 Server Error: Bad Gateway for url: https://www.renault.com.co/legales.html",
+      "message": "ValueError: HTML demasiado grande",
       "offers_found": 0
     },
     {
@@ -47,7 +47,7 @@
       "name": "Suzuki — términos comerciales",
       "url": "https://www.suzukiautos.com.co/info/terminos-y-condiciones",
       "ok": false,
-      "message": "HTTPError: 400 Client Error: Bad Request for url: https://www.suzukiautos.com.co/info/terminos-y-condiciones",
+      "message": "ValueError: Página accesible; extractor sin campañas identificables",
       "offers_found": 0
     },
     {
